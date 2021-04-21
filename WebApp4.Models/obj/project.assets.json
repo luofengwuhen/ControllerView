@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj",
+      "projectUniqueName": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj",
       "projectName": "WebApp4.Models",
-      "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj",
+      "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj",
       "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\obj\\",
+      "outputPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

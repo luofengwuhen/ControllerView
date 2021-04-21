@@ -352,6 +352,22 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {}
         }
       },
+      "Microsoft.AspNetCore.StaticFiles/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
+          "Microsoft.Extensions.FileProviders.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "Microsoft.Extensions.WebEncoders": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.StaticFiles.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.StaticFiles.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.WebUtilities/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -2265,6 +2281,19 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.xml",
         "microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
         "microsoft.aspnetcore.routing.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.StaticFiles/2.2.0": {
+      "sha512": "byZDrjir6Co5EoWbraQyG0qbPCUG6XgGYQstipMF9lucOAjq/mqnIyt8B8iMWnin/ghZoOln9Y01af4rUAwOhA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.staticfiles/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.StaticFiles.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.StaticFiles.xml",
+        "microsoft.aspnetcore.staticfiles.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.staticfiles.nuspec"
       ]
     },
     "Microsoft.AspNetCore.WebUtilities/2.2.0": {
@@ -6392,6 +6421,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Microsoft.AspNetCore.StaticFiles >= 2.2.0",
       "WebApp4.Controller >= 1.0.0"
     ]
   },
@@ -6404,11 +6434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4\\WebApp4.csproj",
+      "projectUniqueName": "F:\\9.手写实例\\ControllerView\\WebApp4\\WebApp4.csproj",
       "projectName": "WebApp4",
-      "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4\\WebApp4.csproj",
+      "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4\\WebApp4.csproj",
       "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4\\obj\\",
+      "outputPath": "F:\\9.手写实例\\ControllerView\\WebApp4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6432,8 +6462,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj": {
-              "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj"
+            "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj": {
+              "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj"
             }
           }
         }
@@ -6447,6 +6477,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.StaticFiles": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

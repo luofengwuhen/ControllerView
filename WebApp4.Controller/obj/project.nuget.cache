@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynjJJDvqY8gLklbyXgAlTkT3pR/4d2Up+5SzMTfrA7+aI8a2hc5r/nug+eovQeAdKH7F/5tGrEkDYhTmCTChdQ==",
+  "dgSpecHash": "pclu7F8Ulj52PO1wNcUrBI9dOtvzkqK2MZVqd59gxRGRX7wW1gjtg5OqM/HTFovKNXTUM2am/B2eue6tP2+wxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj",
+  "projectFilePath": "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

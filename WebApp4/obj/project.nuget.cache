@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBLxu6SqgzMFDArb89WPt+2TYLz0YnvalyPnzxqifmo8b0BqTagCTL9a2gMxW2746nXIc94KaeeJ+3tWZeevNQ==",
+  "dgSpecHash": "Sq2flSw4LdwN3OGG+BAH2m1uEaY9uSla82ieolaTQcDgm77h/zZM1BkqQLqTYvn95RB1NcK6i3ZNIu6+Wt2vAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4\\WebApp4.csproj",
+  "projectFilePath": "F:\\9.手写实例\\ControllerView\\WebApp4\\WebApp4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -29,6 +29,7 @@
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.0\\microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.2.0\\microsoft.aspnetcore.staticfiles.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\LF\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",

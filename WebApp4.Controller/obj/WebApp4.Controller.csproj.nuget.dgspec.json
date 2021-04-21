@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj": {}
+    "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj": {
+    "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj",
+        "projectUniqueName": "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj",
         "projectName": "WebApp4.Controller",
-        "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\WebApp4.Controller.csproj",
+        "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\WebApp4.Controller.csproj",
         "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Controller\\obj\\",
+        "outputPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj": {
-                "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj"
+              "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj": {
+                "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj": {
+    "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj",
+        "projectUniqueName": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj",
         "projectName": "WebApp4.Models",
-        "projectPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\WebApp4.Models.csproj",
+        "projectPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\WebApp4.Models.csproj",
         "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LF\\source\\repos\\WebApp4\\WebApp4\\WebApp4.Models\\obj\\",
+        "outputPath": "F:\\9.手写实例\\ControllerView\\WebApp4.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
